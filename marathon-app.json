@@ -12,7 +12,8 @@
 				"hostPort": 0,
 				"servicePort": 9999,
 				"protocol": "tcp"
-			}]
+			}],
+			"forcePullImage": 
 		}
 	}
 }
