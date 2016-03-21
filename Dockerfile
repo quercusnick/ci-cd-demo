@@ -1,4 +1,4 @@
 FROM tomcat:8.0
 
-
-WORKDIR  /usr/local/tomcat
+ADD ./target/CounterWebApp.war /usr/local/tomcat/CounterWebApp.war
+#WORKDIR  /usr/local/tomcat
