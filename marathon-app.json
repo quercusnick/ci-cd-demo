@@ -13,7 +13,7 @@
 				"servicePort": 9999,
 				"protocol": "tcp"
 			}],
-			"forcePullImage": 
+			"forcePullImage": true
 		}
 	}
 }
