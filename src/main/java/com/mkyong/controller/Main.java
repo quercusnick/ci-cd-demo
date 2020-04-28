@@ -13,6 +13,7 @@ public class Main {
        // cats.put(new Cat("Tor", 5), "Tor");
      //   cats.put(new Cat("Rot", 7), "Rot");
 
+
         Cat r1 = new Cat(20);
         Cat r2 = new Cat(3);
         Cat r3 = new Cat(10);
